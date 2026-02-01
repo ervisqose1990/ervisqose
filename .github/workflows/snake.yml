@@ -1,3 +1,4 @@
+# snake workflow
 name: Generate Snake
 
 on:
