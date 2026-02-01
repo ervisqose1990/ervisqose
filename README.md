@@ -47,11 +47,13 @@ Modular OT/ICS/IoT lab design for real-world testing, training, and response exe
 
 ---
 
-## 📈 GitHub Signals
+## 📊 GitHub Signals
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ervisqose1990&show_icons=true&hide_title=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ervisqose1990&layout=compact&theme=transparent" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&row=1&column=6" />
